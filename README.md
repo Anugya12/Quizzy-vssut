@@ -2,7 +2,7 @@
 
 React project
 
->leaderboard
->Review page
->Quiz vssut
->Landing page
+>>>leaderboard
+>>>Review page
+>>>Quiz vssut
+>>>Landing page
