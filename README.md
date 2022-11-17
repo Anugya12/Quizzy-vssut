@@ -2,7 +2,7 @@
 
 React project
 
->>>leaderboard
->>>Review page
->>>Quiz vssut
->>>Landing page
+1.leaderboard
+2.Feedback page
+3.Quiz vssut
+4.Landing page
